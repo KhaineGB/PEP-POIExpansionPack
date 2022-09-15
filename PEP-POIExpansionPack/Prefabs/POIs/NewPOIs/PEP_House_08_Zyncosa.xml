@@ -17,7 +17,7 @@
   <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
   <property name="SleeperVolumeStart" value="0, 6, 0" />
   <property name="SleeperVolumeSize" value="17, 3, 17" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,4" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />

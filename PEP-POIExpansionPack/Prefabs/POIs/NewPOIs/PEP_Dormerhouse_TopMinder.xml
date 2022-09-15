@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="19, 1, 11#11, 1, 11#11, 1, 23#19, 1, 23#8, 1, 19#11, 7, 23#19, 7, 23#19, 7, 11#11, 7, 11#11, 7, 19#11, 12, 19#11, 12, 23#19, 12, 23#19, 12, 11#11, 12, 11" />
   <property name="SleeperVolumeSize" value="7, 5, 8#7, 5, 8#7, 5, 8#7, 5, 8#18, 5, 4#7, 4, 8#7, 4, 8#7, 4, 8#7, 4, 8#15, 4, 4#15, 4, 4#7, 4, 8#7, 4, 8#7, 4, 8#7, 4, 8" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-_Group_Abandoned_House,1,2,S_-_Group_Biker_Bar,2,3,S_-_Group_Ghost_Town,1,2,S_-Group_Generic_Zombie,2,3,S_-_Group_Hospital,1,2,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,1,2,S_Zom_Businessman,1,2,S_-_Group_Zom_Badass,1,2,S_-Group_Generic_Zombie,1,2,S_Zom_HazMat_Only,1,2,S_-_Group_Hospital,1,2,S_-Group_Generic_Zombie,1,2,S_Zom_Businessman,1,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-_Group_Abandoned_House,2,2,S_-_Group_Biker_Bar,2,3,S_-_Group_Ghost_Town,1,2,S_-Group_Generic_Zombie,2,3,S_-_Group_Hospital,1,2,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,1,2,S_Zom_Businessman,1,2,S_-_Group_Zom_Badass,1,2,S_-Group_Generic_Zombie,1,1,S_Zom_HazMat_Only,1,1,S_-_Group_Hospital,1,1,S_-Group_Generic_Zombie,1,1,S_Zom_Businessman,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />

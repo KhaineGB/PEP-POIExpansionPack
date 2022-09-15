@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="downtown" />
   <property name="SleeperVolumeStart" value="31, 1, 8#4, 1, 8#10, 1, 26#10, 1, 10#15, 1, 10" />
   <property name="SleeperVolumeSize" value="8, 3, 24#5, 3, 25#5, 3, 5#5, 3, 16#16, 3, 21" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,4,S_Zom_FatCops,1,2,S_Zom_Janitor_Only,3,5,S_-Group_Generic_Zombie,7,9" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,4,4,S_Zom_FatCops,1,2,S_Zom_Janitor_Only,5,5,S_-Group_Generic_Zombie,9,9" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />

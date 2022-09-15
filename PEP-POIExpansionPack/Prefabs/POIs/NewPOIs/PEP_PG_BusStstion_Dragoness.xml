@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial, downtown, Industrial, none, NoZone" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="YOffset" value="-5" />
@@ -18,7 +18,7 @@
   <property name="TraderAreaTeleportCenter" value="1, 1, 1" />
   <property name="SleeperVolumeStart" value="32, 6, 55#45, 11, 56#44, 6, 58#32, 6, 35#45, 11, 39#36, 18, 41#33, 11, 48#41, 18, 50#43, 18, 35#77, 6, 14#61, 6, 35#61, 6, 72#29, 6, 66#46, 6, 42#47, 7, 38#33, 11, 47#33, 11, 36#44, 6, 55" />
   <property name="SleeperVolumeSize" value="12, 4, 11#1, 2, 2#17, 5, 8#29, 3, 20#1, 2, 2#8, 4, 7#13, 4, 19#15, 3, 5#13, 6, 15#6, 2, 21#21, 4, 37#22, 2, 15#32, 4, 21#8, 3, 3#5, 3, 1#10, 3, 1#13, 3, 10#17, 3, 3" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_Zom_Spider_Only,2,2,S_Zom_HazMat_Only,2,7,S_-_Group_Zom_Soldier,10,16,S_-_Group_Football_Stadium,2,2,S_Zom_Burnt,4,7,S_-Group_Generic_Zombie,4,5,S_-_Group_Zom_Badass_Only,3,4,S_Zom_Utility_Worker,5,6,S_-Group_Generic_Zombie,1,1,S_-_Group_Hospital,5,11,S_Zom_Utility_Worker,2,3,S_-Group_Generic_Zombie,3,8,S_-_Group_Abandoned_House,1,2,S_-Group_Generic_Zombie,0,0,S_Zom_Burnt,0,0,S_-Group_Generic_Zombie,1,3,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_Zom_Spider_Only,2,2,S_Zom_HazMat_Only,2,7,S_-_Group_Zom_Soldier,8,10,S_-Group_Generic_Zombie,2,2,S_Zom_Burnt,4,7,S_-Group_Generic_Zombie,4,5,S_-_Group_Zom_Badass_Only,3,4,S_Zom_Utility_Worker,5,6,S_-Group_Generic_Zombie,1,1,S_-_Group_Hospital,5,6,S_Zom_Utility_Worker,2,3,S_-Group_Generic_Zombie,3,5,S_-_Group_Abandoned_House,1,2,S_-Group_Generic_Zombie,0,0,S_Zom_Burnt,0,0,S_-Group_Generic_Zombie,1,3,S_-Group_Generic_Zombie,1,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="True,True,True,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />

@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="14, 17, 17#19, 14, 16#11, 1, 16#17, 0, 2#18, 5, 2#5, 11, 3#3, 1, 2#2, 6, 13#7, 1, 12#10, 4, 11#12, 10, 6" />
   <property name="SleeperVolumeSize" value="4, 3, 6#4, 3, 2#4, 4, 8#8, 4, 6#5, 4, 8#3, 2, 3#11, 6, 8#4, 2, 3#4, 2, 3#4, 4, 4#14, 4, 7" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,3,S_-_Group_Abandoned_House,1,3,S_-_Group_Ghost_Town,3,4,S_-_Group_Zom_Badass,4,5,S_-_Group_Zom_Badass,4,8,S_Zom_HazMat_Only,2,5,S_Zom_Burnt,2,5,S_-_Group_Abandoned_House,2,5,S_Zom_Businessman,1,3,S_Zom_Utility_Worker,2,5,S_-Group_Generic_Zombie,3,8" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-_Group_Abandoned_House,3,3,S_-_Group_Ghost_Town,4,4,S_-_Group_Zom_Badass,4,4,S_-_Group_Zom_Badass,6,6,S_Zom_HazMat_Only,3,3,S_Zom_Burnt,3,3,S_-_Group_Abandoned_House,5,5,S_Zom_Businessman,2,2,S_Zom_Utility_Worker,5,5,S_-Group_Generic_Zombie,5,5" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />

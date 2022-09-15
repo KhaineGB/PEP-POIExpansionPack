@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear,fetch,hidden_cache" />
-  <property name="DifficultyTier" value="2" />
+  <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="Commercial, Industrial, ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-8" />
@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="13, 1, 12#13, 8, 34#34, 8, 3#13, 12, 3#38, 5, 19#20, 4, 31#37, 1, 37#43, 5, 30" />
   <property name="SleeperVolumeSize" value="36, 4, 36#24, 3, 12#13, 3, 20#34, 4, 43#2, 2, 4#15, 3, 6#8, 2, 4#2, 3, 6" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,5,6,S_-_Group_Zom_Badass,1,2,S_Zom_Utility_Worker,3,3,S_-Group_Generic_Zombie,2,3,S_Zom_Utility_Worker,4,6,S_Zom_Utility_Worker,17,21,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,4,6" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,5,5,S_-_Group_Zom_Badass,2,2,S_Zom_Utility_Worker,3,3,S_-Group_Generic_Zombie,2,2,S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,17,17,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,True,True,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />

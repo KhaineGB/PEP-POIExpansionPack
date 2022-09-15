@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-5" />
@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="24, 24, 19#24, 2, 10#12, 6, 12#25, 13, 13#25, 19, 14#11, 1, 34#11, 2, 14" />
   <property name="SleeperVolumeSize" value="23, 3, 31#24, 2, 42#35, 3, 39#22, 3, 38#22, 3, 37#12, 3, 17#13, 2, 18" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,5,8,S_-_Group_Biker_Bar,6,8,S_-_Group_Abandoned_House,10,15,S_-_Group_Ghost_Town,8,10,S_-Group_Generic_Zombie,8,10,S_-_Group_Zom_Soldier,1,2,S_Zom_Utility_Worker,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,6,6,S_-_Group_Biker_Bar,6,6,S_-_Group_Abandoned_House,12,12,S_-_Group_Ghost_Town,8,8,S_-Group_Generic_Zombie,10,10,S_-_Group_Zom_Soldier,2,2,S_Zom_Utility_Worker,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />

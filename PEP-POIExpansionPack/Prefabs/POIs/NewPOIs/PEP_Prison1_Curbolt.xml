@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear,fetch,hidden_cache" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="2" />
   <property name="Zoning" value="Commercial, Downtown, Industrial, ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DistantPOIYOffset" value="0" />
@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="10, 1, 12#10, 5, 7#5, 5, 42#13, 9, 21" />
   <property name="SleeperVolumeSize" value="43, 3, 44#44, 4, 35#49, 3, 15#31, 3, 21" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,15,20,S_-Group_Generic_Zombie,7,10,S_Zom_Businessman,5,7,S_Zom_FatCops,1,1" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,15,15,S_-Group_Generic_Zombie,7,7,S_Zom_Businessman,5,5,S_Zom_FatCops,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />

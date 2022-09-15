@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Wilderness, Ancap Zone, burnt, downtown, House medium, HOUSE CONST, house new, house old, out buildings, remnant, rural" />
   <property name="SleeperVolumeStart" value="9, 1, 6#1, 1, 0#4, -1, 5#12, 2, 13#20, 0, 7#2, 1, 18#7, 6, 13#7, 10, 11" />
   <property name="SleeperVolumeSize" value="6, 3, 7#24, 3, 5#6, 5, 13#7, 2, 5#5, 5, 18#16, 4, 7#9, 2, 5#7, 4, 9" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Abandoned_House,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Abandoned_House,1,2,S_Zom_Spider_Only,1,1,S_-_Group_Zom_Badass,1,1" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Abandoned_House,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Abandoned_House,1,1,S_Zom_Spider_Only,1,1,S_-_Group_Zom_Badass,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",0,0,0,0,0,0,0" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />

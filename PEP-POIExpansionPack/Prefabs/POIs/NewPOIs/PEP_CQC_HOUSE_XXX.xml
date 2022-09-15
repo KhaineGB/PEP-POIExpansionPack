@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="house new, rural, downtown, house old" />
   <property name="SleeperVolumeStart" value="11, 0, 5#0, 12, 5#1, 5, 5#1, 9, 5#2, 1, 5" />
   <property name="SleeperVolumeSize" value="10, 5, 14#15, 3, 14#13, 3, 15#13, 3, 15#9, 3, 14" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,2,4,S_-Group_Generic_Zombie,4,6,S_-_Group_Abandoned_House,4,5,S_-_Group_Biker_Bar,2,3,S_-_Group_Zom_Badass,3,4" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,3,4,S_-Group_Generic_Zombie,6,6,S_-_Group_Abandoned_House,5,5,S_-_Group_Biker_Bar,3,3,S_-_Group_Zom_Badass,3,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False" />

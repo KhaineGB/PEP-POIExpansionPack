@@ -5,10 +5,10 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="2" />
   <property name="SleeperVolumeSize" value="12, 5, 28#12, 3, 6#9, 2, 6#13, 2, 9#13, 2, 9#13, 2, 9#9, 3, 7" />
   <property name="SleeperVolumeStart" value="23, 5, 6#11, 5, 35#13, 6, 26#10, 6, 16#10, 6, 6#11, 10, 15#14, 0, 8" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,4,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-_Group_Zom_Badass,3,4,S_-_Group_Zom_Badass,5,6,S_-_Group_Zom_Badass_Only,2,3,S_-_Group_Zom_Badass,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3,S_-_Group_Zom_Badass,3,4,S_-_Group_Zom_Badass,5,6,S_-_Group_Zom_Badass_Only,2,3,S_-_Group_Zom_Badass,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="easy" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False" />

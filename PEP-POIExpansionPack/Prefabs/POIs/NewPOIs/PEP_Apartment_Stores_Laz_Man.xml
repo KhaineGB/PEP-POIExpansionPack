@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="23, 0, 18#23, 0, 30#0, 0, 19#0, 0, 1#13, 0, 1" />
   <property name="SleeperVolumeSize" value="16, 21, 12#16, 17, 11#23, 6, 22#13, 21, 17#26, 21, 17" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,8,S_-Group_Generic_Zombie,6,8,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,6,9,S_-Group_Generic_Zombie,12,16" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,6,S_-Group_Generic_Zombie,6,6,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,6,8,S_-Group_Generic_Zombie,12,13" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />

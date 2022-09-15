@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="commercial, downtown" />
   <property name="SleeperVolumeStart" value="7, 7, 19#8, 1, 42#25, 1, 22#26, 1, 42#2, 1, -1#4, 1, 52#9, 1, 22#26, 1, 48#20, 1, 47#38, 1, 21" />
   <property name="SleeperVolumeSize" value="29, 5, 29#9, 3, 9#12, 3, 20#11, 2, 6#53, 5, 22#26, 3, 10#16, 2, 19#9, 2, 6#5, 5, 4#16, 3, 42" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,7,S_-Group_Generic_Zombie,3,5,S_-Group_Generic_Zombie,3,4,S_-_Group_Football_Stadium,1,2,S_-Group_Generic_Zombie,3,5,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,5,7,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,7,S_-Group_Generic_Zombie,3,5,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,5,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,5,7,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />

@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Ancap Zone, burnt, downtown, government, industrial, out buildings, rural, Wilderness" />
   <property name="SleeperVolumeStart" value="-1, 1, 16" />
   <property name="SleeperVolumeSize" value="61, 7, 29" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,24,30" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,20,25" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />

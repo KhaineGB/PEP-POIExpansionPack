@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="5" />
   <property name="Zoning" value="Commercial, Downtown, Industrial, ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="YOffset" value="-7" />
@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="9, 0, 10#21, 7, 9#21, 12, 8#22, 17, 9#22, 22, 9#4, 7, 10#20, 27, 8#21, 7, 21" />
   <property name="SleeperVolumeSize" value="46, 5, 44#33, 3, 45#33, 3, 47#32, 3, 45#32, 3, 45#17, 3, 44#35, 4, 48#8, 3, 9" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,12,15,S_-Group_Generic_Zombie,10,12,S_-_Group_Hospital,15,18,S_-_Group_Lab_Worker,15,18,S_-_Group_Hospital,12,18,S_-_Group_Hospital,3,4,S_-_Group_Zom_Badass_Only,8,12,S_-_Group_Zom_Badass,3,4" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,15,15,S_-Group_Generic_Zombie,12,12,S_-_Group_Hospital,18,18,S_-_Group_Lab_Worker,18,18,S_-_Group_Hospital,18,18,S_-_Group_Hospital,4,4,S_-_Group_Zom_Badass_Only,12,12,S_-_Group_Zom_Badass,4,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,True" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />

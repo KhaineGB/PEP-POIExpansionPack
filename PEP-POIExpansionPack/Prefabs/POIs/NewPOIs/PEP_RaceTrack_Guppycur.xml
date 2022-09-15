@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial, Industrial, ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-6" />
@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="57, 2, 11#19, 2, 11#46, 6, 4#37, 6, 6#17, 6, 6#59, 6, 11#51, 11, 5#72, 10, 13#76, 6, 12#36, 6, 47" />
   <property name="SleeperVolumeSize" value="52, 5, 22#51, 3, 16#18, 3, 14#14, 3, 21#25, 3, 21#13, 3, 16#12, 5, 15#3, 2, 4#3, 2, 3#55, 3, 30" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,12,15,S_-Group_Generic_Zombie,12,15,S_-Group_Generic_Zombie,1,2,S_-_Group_Zom_Badass,1,1,S_-_Group_Football_Stadium,4,5,S_Zom_Utility_Worker,3,4,S_Zom_Businessman,3,4,S_-_Group_Zom_Badass_Only,9,10,S_-_Group_Zom_Badass,9,10,S_Zom_Utility_Worker,16,22" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,10,10,S_-Group_Generic_Zombie,10,10,S_-Group_Generic_Zombie,1,1,S_-_Group_Zom_Badass,1,1,S_-Group_Generic_Zombie,3,3,S_Zom_Utility_Worker,3,3,S_Zom_Businessman,3,3,S_-_Group_Zom_Badass_Only,7,7,S_-_Group_Zom_Badass,5,10,S_Zom_Utility_Worker,10,15" />
   <property name="SleeperVolumeGameStageAdjust" value="hard,1000,,,hard,hard,hard" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,True,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False" />

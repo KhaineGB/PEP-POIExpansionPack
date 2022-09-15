@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="fetch" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="2" />
   <property name="Zoning" value="Residential" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-9" />

@@ -17,7 +17,7 @@
   <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
   <property name="SleeperVolumeStart" value="21, 3, 14#14, 7, 11#14, 10, 11#5, 11, 11#5, 11, 1#6, 7, 1#2, 7, -7#18, 7, -7#31, 7, 10#36, 7, 10#22, 7, 22#5, 7, 22" />
   <property name="SleeperVolumeSize" value="11, 3, 8#12, 3, 11#20, 2, 4#9, 2, 10#9, 2, 10#7, 2, 20#11, 2, 8#23, 2, 16#4, 2, 12#4, 2, 12#13, 9, 12#17, 9, 18" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,2,S_Zom_Utility_Worker,1,2,S_-_Group_Football_Stadium,1,2,S_-_Group_Ghost_Town,2,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Zom_Badass,1,2,S_Zom_HazMat_Only,1,1,S_Zom_Businessman,3,4,S_-_Group_Zom_Badass,3,4" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,1,2,S_-_Group_Ghost_Town,2,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-_Group_Abandoned_House,1,2,S_-_Group_Zom_Badass,1,2,S_Zom_HazMat_Only,1,1,S_Zom_Businessman,3,4,S_-_Group_Zom_Badass,3,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />

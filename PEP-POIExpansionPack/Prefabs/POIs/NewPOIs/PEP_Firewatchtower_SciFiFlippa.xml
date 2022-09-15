@@ -13,7 +13,7 @@
   <property name="EditorGroups" value="Wilderness, Ancap Zone, burnt, commercial, government, out buildings, rural, remnant" />
   <property name="SleeperVolumeStart" value="3, -2, 2#3, 14, 3" />
   <property name="SleeperVolumeSize" value="8, 9, 8#8, 6, 7" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Burnt,4,6,S_Zom_Burnt,2,3" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Burnt,2,3,S_Zom_Burnt,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="0,0" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsBossVolume" value="False,False" />

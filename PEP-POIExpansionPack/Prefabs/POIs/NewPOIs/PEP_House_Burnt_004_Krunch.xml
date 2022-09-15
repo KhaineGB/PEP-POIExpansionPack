@@ -12,6 +12,7 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="wilderness" />
+  <property name="YOffset" value="-5" />
   <property class="Stats">
     <property name="TotalVertices" value="197883" />
     <property name="TotalTriangles" value="185644" />

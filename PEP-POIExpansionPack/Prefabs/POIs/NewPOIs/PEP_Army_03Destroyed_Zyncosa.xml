@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="rural, Wilderness" />
   <property name="SleeperVolumeStart" value="8, 2, 7#31, 2, 7#31, 2, 23#31, 7, 23#31, 13, 23#31, 1, 44#50, 2, 25#8, 1, 40#9, 2, 32#8, 6, 31#9, 2, 16#8, 6, 15#12, 2, 25#24, 1, 10#7, 2, 23" />
   <property name="SleeperVolumeSize" value="16, 4, 8#24, 6, 16#17, 5, 20#17, 5, 20#17, 7, 20#24, 5, 10#7, 5, 10#16, 5, 10#15, 4, 7#16, 4, 9#15, 4, 7#16, 4, 11#12, 4, 7#7, 3, 40#4, 2, 10" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-_Group_Zom_Soldier,7,8,S_Zom_Utility_Worker,5,9,S_Zom_Businessman,6,8,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_Zom_HazMat_Only,2,3,S_-_Group_Zom_Badass_Only,4,6,S_-_Group_Hospital,4,6,S_-_Group_Biker_Bar,5,6,S_-_Group_Football_Stadium,2,4,S_Zom_Businessman,2,4,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,4,6,S_Zom_Burnt,1,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-_Group_Zom_Soldier,7,8,S_Zom_Utility_Worker,5,9,S_Zom_Businessman,6,8,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_Zom_HazMat_Only,2,3,S_-_Group_Zom_Badass_Only,4,6,S_-_Group_Hospital,4,6,S_-_Group_Biker_Bar,5,6,S_-Group_Generic_Zombie,2,4,S_Zom_Businessman,2,4,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,4,6,S_Zom_Burnt,1,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />

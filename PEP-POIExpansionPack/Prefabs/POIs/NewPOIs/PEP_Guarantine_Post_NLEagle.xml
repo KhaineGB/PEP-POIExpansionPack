@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear,fetch" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="2" />
   <property name="Zoning" value="NoZone, Residential" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DistantPOIYOffset" value="0" />
@@ -16,7 +16,7 @@
   <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
   <property name="SleeperVolumeStart" value="19, 2, 9#1, 2, 9#14, 2, 1" />
   <property name="SleeperVolumeSize" value="7, 11, 13#13, 11, 13#3, 2, 22" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-_Group_Zom_Soldier,6,8,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,4,S_-_Group_Zom_Soldier,6,8,S_-Group_Generic_Zombie,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",," />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />

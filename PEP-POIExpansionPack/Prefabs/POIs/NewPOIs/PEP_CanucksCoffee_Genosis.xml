@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="12, 9, 7#13, 6, 20#11, 2, 16#17, 6, 15#12, 1, 8" />
   <property name="SleeperVolumeSize" value="21, 3, 27#22, 2, 17#23, 2, 19#16, 2, 5#21, 6, 7" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,7,S_-Group_Generic_Zombie,7,10,S_-Group_Generic_Zombie,5,8,S_-Group_Generic_Zombie,1,3,S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,7,8,S_-Group_Generic_Zombie,5,8,S_-Group_Generic_Zombie,1,3,S_-Group_Generic_Zombie,3,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,True" />

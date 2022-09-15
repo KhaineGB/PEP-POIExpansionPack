@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="0, 0, 9#14, 0, 9#17, 1, 18#24, 1, 28#26, 1, 18#17, 1, 24#36, 0, 14#17, 7, 17#25, 7, 26#26, 7, 17#17, 1, 28#17, 7, 26" />
   <property name="SleeperVolumeSize" value="17, 6, 24#22, 6, 9#9, 5, 6#12, 5, 7#10, 5, 6#19, 5, 4#21, 6, 27#9, 12, 9#11, 12, 9#10, 12, 9#7, 5, 9#8, 12, 9" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-_Group_Football_Stadium,1,2,S_-_Group_Zom_Badass,2,3,S_-_Group_Biker_Bar,1,1,S_-Group_Generic_Zombie,3,4,S_-_Group_Zom_Soldier,1,1,S_-_Group_Biker_Bar,3,4,S_-_Group_Zom_Badass,2,3,S_-_Group_Zom_Badass,2,3,S_Zom_Spider_Only,4,5,S_-Group_Generic_Zombie,1,2,S_-_Group_Biker_Bar,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,2,S_-_Group_Zom_Badass,2,3,S_-_Group_Biker_Bar,1,1,S_-Group_Generic_Zombie,3,4,S_-_Group_Zom_Soldier,1,1,S_-_Group_Biker_Bar,3,4,S_-_Group_Zom_Badass,2,3,S_-_Group_Zom_Badass,2,3,S_Zom_Spider_Only,4,5,S_-Group_Generic_Zombie,1,2,S_-_Group_Biker_Bar,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="medium,200,400,350,250,medium,easy,medium,350,250,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,True,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />

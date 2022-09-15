@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Building, Cityblocks, commercial, settlements, Streets, Random" />
   <property name="SleeperVolumeStart" value="-1, 1, 6#37, 1, 6#22, 1, 31#22, 1, 6#26, 1, 11#22, 1, 23#34, 1, 23#32, 4, 11" />
   <property name="SleeperVolumeSize" value="22, 3, 30#4, 3, 11#19, 3, 4#4, 3, 14#10, 3, 10#12, 3, 7#4, 4, 7#4, 1, 12" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_Zom_Businessman,1,2,S_Zom_Janitor_Only,1,2,S_-Group_Generic_Zombie,1,2,S_-_Group_Abandoned_House,2,3,S_-Group_Generic_Zombie,3,4,S_Zom_Utility_Worker,1,1,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,6,S_Zom_Businessman,2,2,S_Zom_Janitor_Only,2,2,S_-Group_Generic_Zombie,2,2,S_-_Group_Abandoned_House,3,3,S_-Group_Generic_Zombie,4,4,S_Zom_Utility_Worker,1,1,S_-Group_Generic_Zombie,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />

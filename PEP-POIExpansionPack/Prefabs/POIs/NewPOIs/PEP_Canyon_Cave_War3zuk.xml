@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial, Downtown, Industrial, ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-45" />
@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="0, 0, 0#20, 21, 4#7, 25, 12#30, 1, 1#6, 44, 29#36, 1, 13#39, 5, 22#39, 5, 6#38, 7, 14#20, 21, 25" />
   <property name="SleeperVolumeSize" value="30, 18, 43#31, 3, 21#12, 9, 26#25, 3, 42#22, 6, 8#8, 4, 7#3, 5, 5#3, 5, 5#9, 4, 5#17, 4, 13" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,8,12,S_Zom_Utility_Worker,6,8,S_-_Group_Biker_Bar,5,6,S_Zom_Utility_Worker,9,15,S_Zom_Utility_Worker,4,5,S_-_Group_Zom_Badass,9,15,S_-_Group_Zom_Badass,7,9,S_-_Group_Zom_Badass,7,9,S_-_Group_Zom_Badass_Only,7,9,S_-_Group_Biker_Bar,11,13" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,4,4,S_Zom_Utility_Worker,4,4,S_-_Group_Biker_Bar,3,3,S_Zom_Utility_Worker,5,5,S_Zom_Utility_Worker,4,4,S_-_Group_Zom_Badass,5,5,S_-_Group_Zom_Badass,5,5,S_-_Group_Zom_Badass,5,5,S_-_Group_Zom_Badass_Only,5,5,S_-_Group_Biker_Bar,8,10" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,True,True,True,True,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />

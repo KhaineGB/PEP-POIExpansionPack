@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="4, 0, -3#4, 6, -3#4, 11, -3#4, 17, -3" />
   <property name="SleeperVolumeSize" value="35, 6, 46#35, 5, 46#35, 6, 46#35, 9, 46" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,12,18,S_Zom_Businessman,7,10,S_Zom_Businessman,10,14,S_Zom_Businessman,12,17" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,12,14,S_Zom_Businessman,10,10,S_Zom_Businessman,10,14,S_Zom_Businessman,12,15" />
   <property name="SleeperVolumeGameStageAdjust" value=",,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />

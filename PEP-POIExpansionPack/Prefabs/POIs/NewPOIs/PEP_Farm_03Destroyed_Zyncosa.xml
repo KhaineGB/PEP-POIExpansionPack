@@ -17,7 +17,7 @@
   <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
   <property name="SleeperVolumeStart" value="4, 3, 14#7, 6, 14#14, 2, 14#14, 6, 14#14, 3, 24#25, 3, 25#23, 2, 14#14, 2, 11" />
   <property name="SleeperVolumeSize" value="10, 2, 15#7, 2, 11#9, 2, 7#9, 2, 7#9, 2, 7#4, 2, 5#11, 2, 8#11, 2, 3" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,3,5,S_-Group_Generic_Zombie,1,2,S_Zom_Businessman,1,2,S_-_Group_Lab_Worker,1,2,S_Zom_HazMat_Only,1,2,S_-_Group_Zom_Badass,1,1,S_Zom_Businessman,3,4,S_-_Group_Abandoned_House,3,4" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,5,5,S_-Group_Generic_Zombie,2,2,S_Zom_Businessman,2,2,S_-_Group_Lab_Worker,2,2,S_Zom_HazMat_Only,2,2,S_-_Group_Zom_Badass,1,1,S_Zom_Businessman,4,4,S_-_Group_Abandoned_House,4,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />

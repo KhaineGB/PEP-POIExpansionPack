@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="8, 1, 22#10, 1, 23#21, 1, 9#10, 1, 9#10, 7, 23#10, 7, 9#21, 7, 9#21, 7, 32#12, 12, 29#12, 12, 19#12, 12, 9" />
   <property name="SleeperVolumeSize" value="13, 5, 1#10, 5, 16#16, 5, 30#10, 5, 13#10, 4, 16#10, 4, 13#17, 4, 23#10, 4, 7#16, 4, 10#16, 4, 10#16, 4, 10" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Hospital,1,1,S_-Group_Generic_Zombie,3,3,S_-_Group_Biker_Bar,6,7,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,3,S_-_Group_Hospital,1,2,S_-_Group_Lab_Worker,5,5,S_-_Group_Zom_Badass_Only,2,2,S_Zom_Snow,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Zom_Badass,2,2" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Hospital,1,1,S_-Group_Generic_Zombie,3,3,S_-_Group_Biker_Bar,6,6,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-_Group_Hospital,1,1,S_-_Group_Lab_Worker,4,4,S_-_Group_Zom_Badass_Only,2,2,S_Zom_Snow,1,1,S_-_Group_Abandoned_House,1,1,S_-_Group_Zom_Badass,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,True,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />

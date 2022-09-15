@@ -17,7 +17,7 @@
   <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
   <property name="SleeperVolumeStart" value="16, 1, 5#17, 1, 15#18, 4, 12#17, 4, 24#17, 12, 25" />
   <property name="SleeperVolumeSize" value="11, 3, 10#9, 3, 18#8, 9, 12#9, 8, 10#9, 6, 11" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Soldier,8,10,S_-_Group_Zom_Soldier,8,10,S_-_Group_Zom_Soldier,5,7,S_-_Group_Zom_Soldier,3,4,S_-_Group_Zom_Soldier,8,10" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Soldier,8,8,S_-_Group_Zom_Soldier,8,8,S_-_Group_Zom_Soldier,5,7,S_-_Group_Zom_Soldier,3,4,S_-_Group_Zom_Soldier,8,8" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="True,True,False,True,True" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />

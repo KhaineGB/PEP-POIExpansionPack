@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear,fetch,hidden_cache" />
-  <property name="DifficultyTier" value="3" />
+  <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial, Downtown, Residential" />
   <property name="RotationToFaceNorth" value="1" />
   <property name="YOffset" value="-9" />
@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="downtown" />
   <property name="SleeperVolumeStart" value="6, 10, 11#6, 5, 23#20, 5, 11#6, 5, 11#6, 15, 11#4, 22, 11#4, 14, 11" />
   <property name="SleeperVolumeSize" value="25, 4, 18#25, 4, 7#11, 4, 12#13, 4, 11#25, 4, 18#30, 7, 19#10, 6, 19" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,22,26,S_-_Group_Zom_Badass,4,6,S_-_Group_Zom_Badass_Only,5,7,S_Zom_Utility_Worker,3,4,S_-_Group_Zom_Badass_Only,4,7,S_-_Group_Zom_Badass,9,11,S_-_Group_Zom_Badass,9,11" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass,20,20,S_-_Group_Zom_Badass,2,2,S_-_Group_Zom_Badass_Only,2,2,S_Zom_Utility_Worker,2,2,S_-_Group_Zom_Badass_Only,2,2,S_-_Group_Zom_Badass,9,9,S_-_Group_Zom_Badass,9,9" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,True,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />

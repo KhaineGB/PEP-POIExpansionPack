@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="out buildings, rural, Wilderness" />
   <property name="SleeperVolumeStart" value="5, 8, 1#15, 8, 25#4, 8, 25#4, 3, 28#1, 8, 10#0, 8, 42" />
   <property name="SleeperVolumeSize" value="9, 3, 9#11, 5, 7#8, 3, 16#8, 3, 13#14, 3, 14#28, 3, 9" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,2,S_-_Group_Abandoned_House,1,1,S_-_Group_Zom_Badass,2,3,S_-Group_Generic_Zombie,3,5,S_-Group_Generic_Zombie,7,10" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-_Group_Abandoned_House,1,1,S_-_Group_Zom_Badass,2,3,S_-Group_Generic_Zombie,5,5,S_-Group_Generic_Zombie,7,10" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False" />

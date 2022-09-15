@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="Wilderness, industrial, commercial, downtown" />
   <property name="SleeperVolumeStart" value="10, 1, 14" />
   <property name="SleeperVolumeSize" value="29, 3, 26" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,8,12" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,6" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsBossVolume" value="False" />

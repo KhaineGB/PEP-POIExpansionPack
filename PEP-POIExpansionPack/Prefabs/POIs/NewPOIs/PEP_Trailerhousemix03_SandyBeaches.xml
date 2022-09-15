@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear,fetch,hidden_cache" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="2" />
   <property name="Zoning" value="ResidentialNew, ResidentialOld, Residential" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="YOffset" value="-1" />
@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeStart" value="11, 1, 5#11, 2, 27#11, 5, 5" />
   <property name="SleeperVolumeSize" value="26, 4, 10#26, 4, 10#26, 4, 10" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Abandoned_House,4,5,S_-_Group_Biker_Bar,4,5,S_-_Group_Zom_Badass,6,7" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Abandoned_House,5,5,S_-_Group_Biker_Bar,5,5,S_-_Group_Zom_Badass,7,7" />
   <property name="SleeperVolumeGameStageAdjust" value="," />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False" />

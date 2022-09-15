@@ -13,7 +13,7 @@
   <property name="EditorGroups" value="HOUSE CONST, House medium, house new, house old" />
   <property name="SleeperVolumeStart" value="6, 20, 4#6, 17, 9#12, 14, 5#8, 1, 8#8, 6, 8#8, 10, 11#8, 10, 8#6, 14, 7#7, 14, 16" />
   <property name="SleeperVolumeSize" value="10, 6, 16#13, 3, 11#6, 3, 11#9, 5, 10#9, 4, 10#9, 4, 7#5, 3, 3#6, 3, 5#11, 3, 3" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,2,4,S_-Group_Generic_Zombie,1,3,S_Zom_Janitor_Only,4,6,S_-_Group_Lab_Worker,4,8,S_Zom_Businessman,1,4,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,2,4,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_Zom_Janitor_Only,4,4,S_-_Group_Lab_Worker,4,6,S_Zom_Businessman,2,3,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,True,False,False,False,True,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
