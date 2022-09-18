@@ -26,27 +26,49 @@
   <property name="PrefabSize" value="60, 24, 60" />
   <property name="Tags" value="residential" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="56, 1, 35" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="47, 2, 26" />
     </property>
     <property class="POILight">
-      <property name="0" value="45, 9, 31" />
+      <property name="0" value="34, 4, 30" />
+      <property name="1" value="41, 4, 30" />
+      <property name="2" value="40, 9, 31" />
+      <property name="3" value="45, 9, 31" />
+      <property name="4" value="32, 14, 32" />
+      <property name="5" value="35, 14, 32" />
+      <property name="6" value="40, 14, 32" />
+      <property name="7" value="30, 9, 33" />
+      <property name="8" value="30, 11, 33" />
+      <property name="9" value="34, 4, 33" />
+      <property name="10" value="43, 2, 33" />
+      <property name="11" value="35, 6, 34" />
+      <property name="12" value="40, 3, 35" />
+      <property name="13" value="30, 4, 37" />
+      <property name="14" value="34, 4, 37" />
+      <property name="15" value="36, 7, 39" />
+      <property name="16" value="35, 15, 40" />
+      <property name="17" value="36, 11, 40" />
+      <property name="18" value="38, 15, 40" />
+      <property name="19" value="30, 9, 41" />
+      <property name="20" value="35, 9, 41" />
+      <property name="21" value="36, 7, 42" />
+      <property name="22" value="36, 11, 43" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="39, 3, 30" />
       <property name="1" value="33, 3, 36" />
       <property name="2" value="36, 12, 39" />
     </property>
-    <property class="Rally">
-      <property name="0" value="29, 3, 8" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="654052" />
-    <property name="TotalTriangles" value="763499" />
+    <property name="TotalVertices" value="655466" />
+    <property name="TotalTriangles" value="764631" />
     <property class="BlockEntities">
-      <property name="Vertices" value="550944" />
-      <property name="Triangles" value="693852" />
+      <property name="Vertices" value="551842" />
+      <property name="Triangles" value="694732" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="77011" />
@@ -69,15 +91,15 @@
       <property name="Triangles" value="5412" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1008" />
-      <property name="Triangles" value="504" />
+      <property name="Vertices" value="1512" />
+      <property name="Triangles" value="756" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="9910" />
+      <property name="Vertices" value="9922" />
       <property name="Triangles" value="16636" />
     </property>
     <property class="ChunkMeshes8">

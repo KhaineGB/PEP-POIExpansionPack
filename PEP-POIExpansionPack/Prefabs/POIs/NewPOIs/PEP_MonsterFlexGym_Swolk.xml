@@ -30,30 +30,32 @@
       <property name="1" value="29, 8, 22" />
     </property>
     <property class="POILight">
-      <property name="0" value="28, 11, 34" />
-      <property name="1" value="30, 11, 34" />
-      <property name="2" value="30, 11, 35" />
-      <property name="3" value="30, 11, 36" />
-      <property name="4" value="30, 11, 37" />
-      <property name="5" value="21, 11, 38" />
-      <property name="6" value="22, 11, 38" />
-      <property name="7" value="23, 11, 38" />
-      <property name="8" value="25, 11, 38" />
-      <property name="9" value="26, 11, 38" />
-      <property name="10" value="27, 11, 38" />
-      <property name="11" value="28, 11, 38" />
-      <property name="12" value="29, 11, 38" />
+      <property name="0" value="30, 11, 37" />
+      <property name="1" value="21, 11, 38" />
+      <property name="2" value="22, 11, 38" />
+      <property name="3" value="23, 11, 38" />
+      <property name="4" value="25, 11, 38" />
+      <property name="5" value="26, 11, 38" />
+      <property name="6" value="27, 11, 38" />
+      <property name="7" value="28, 11, 38" />
+      <property name="8" value="29, 11, 38" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="25, 3, 34" />
+      <property name="0" value="25, 13, 29" />
+      <property name="1" value="24, 6, 31" />
+      <property name="2" value="24, 4, 32" />
+      <property name="3" value="25, 3, 34" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="30, 3, 1" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="582336" />
-    <property name="TotalTriangles" value="551511" />
+    <property name="TotalVertices" value="583152" />
+    <property name="TotalTriangles" value="552391" />
     <property class="BlockEntities">
-      <property name="Vertices" value="480838" />
-      <property name="Triangles" value="487558" />
+      <property name="Vertices" value="481736" />
+      <property name="Triangles" value="488438" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="89177" />
@@ -84,7 +86,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="5498" />
+      <property name="Vertices" value="5416" />
       <property name="Triangles" value="8656" />
     </property>
     <property class="ChunkMeshes8">

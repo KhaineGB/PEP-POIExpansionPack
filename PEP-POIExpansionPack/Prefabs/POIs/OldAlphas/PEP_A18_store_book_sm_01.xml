@@ -26,11 +26,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="474516" />
-    <property name="TotalTriangles" value="564754" />
+    <property name="TotalVertices" value="475414" />
+    <property name="TotalTriangles" value="565634" />
     <property class="BlockEntities">
-      <property name="Vertices" value="443453" />
-      <property name="Triangles" value="544081" />
+      <property name="Vertices" value="444351" />
+      <property name="Triangles" value="544961" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="22910" />
@@ -79,6 +79,9 @@
     </property>
     <property class="POILight">
       <property name="0" value="21, 4, 39" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="21, 1, 4" />
     </property>
   </property>
 </prefab>

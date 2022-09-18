@@ -24,11 +24,11 @@
   <property name="PrefabSize" value="42, 13, 42" />
   <property name="Tags" value="residential" />
   <property class="Stats">
-    <property name="TotalVertices" value="201309" />
-    <property name="TotalTriangles" value="229720" />
+    <property name="TotalVertices" value="202349" />
+    <property name="TotalTriangles" value="230588" />
     <property class="BlockEntities">
-      <property name="Vertices" value="166697" />
-      <property name="Triangles" value="207023" />
+      <property name="Vertices" value="167571" />
+      <property name="Triangles" value="207891" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="27904" />
@@ -59,7 +59,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="4544" />
+      <property name="Vertices" value="4710" />
       <property name="Triangles" value="7388" />
     </property>
     <property class="ChunkMeshes8">
@@ -73,12 +73,21 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="23, 10, 29" />
-      <property name="1" value="30, 10, 29" />
-      <property name="2" value="34, 10, 29" />
-      <property name="3" value="29, 5, 30" />
-      <property name="4" value="35, 5, 30" />
-      <property name="5" value="32, 7, 32" />
+      <property name="0" value="23, 5, 24" />
+      <property name="1" value="29, 5, 24" />
+      <property name="2" value="35, 5, 24" />
+      <property name="3" value="23, 10, 25" />
+      <property name="4" value="30, 10, 25" />
+      <property name="5" value="34, 10, 25" />
+      <property name="6" value="23, 10, 29" />
+      <property name="7" value="30, 10, 29" />
+      <property name="8" value="34, 10, 29" />
+      <property name="9" value="29, 5, 30" />
+      <property name="10" value="35, 5, 30" />
+      <property name="11" value="32, 7, 32" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="17, 1, 40" />
     </property>
   </property>
 </prefab>

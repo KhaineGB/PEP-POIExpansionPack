@@ -47,13 +47,16 @@
     <property class="brBlock">
       <property name="0" value="76, 13, 75" />
     </property>
+    <property class="Rally">
+      <property name="0" value="70, 1, 96" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1752061" />
-    <property name="TotalTriangles" value="1940375" />
+    <property name="TotalVertices" value="1754095" />
+    <property name="TotalTriangles" value="1941823" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1490070" />
-      <property name="Triangles" value="1763960" />
+      <property name="Vertices" value="1490968" />
+      <property name="Triangles" value="1764840" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="158622" />
@@ -76,8 +79,8 @@
       <property name="Triangles" value="56720" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2272" />
-      <property name="Triangles" value="1136" />
+      <property name="Vertices" value="3408" />
+      <property name="Triangles" value="1704" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

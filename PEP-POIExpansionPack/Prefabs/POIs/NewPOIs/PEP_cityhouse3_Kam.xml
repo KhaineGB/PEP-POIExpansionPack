@@ -42,16 +42,19 @@
     <property class="TraderOnOff">
       <property name="0" value="32, 1, 34" />
     </property>
+    <property class="Rally">
+      <property name="0" value="31, 4, 53" />
+    </property>
     <property class="brBlock">
       <property name="0" value="46, 10, 41" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="884176" />
-    <property name="TotalTriangles" value="1010953" />
+    <property name="TotalVertices" value="884820" />
+    <property name="TotalTriangles" value="1011833" />
     <property class="BlockEntities">
-      <property name="Vertices" value="753365" />
-      <property name="Triangles" value="919283" />
+      <property name="Vertices" value="754263" />
+      <property name="Triangles" value="920163" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="95465" />
@@ -82,7 +85,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="10382" />
+      <property name="Vertices" value="10128" />
       <property name="Triangles" value="17120" />
     </property>
     <property class="ChunkMeshes8">

@@ -21,18 +21,18 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False" />
-  <property name="Tags" value="countrytown,residential,wilderness,industrial,nodiagonal" />
+  <property name="Tags" value="wilderness,industrial,residential,countrytown,nodiagonal" />
   <property name="PrefabSize" value="25, 21, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="83278" />
-    <property name="TotalTriangles" value="78999" />
+    <property name="TotalVertices" value="84192" />
+    <property name="TotalTriangles" value="79887" />
     <property class="BlockEntities">
-      <property name="Vertices" value="54637" />
-      <property name="Triangles" value="56100" />
+      <property name="Vertices" value="55535" />
+      <property name="Triangles" value="56980" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="26391" />
-      <property name="Triangles" value="19711" />
+      <property name="Vertices" value="26407" />
+      <property name="Triangles" value="19719" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,6 +69,11 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="11, 1, 2" />
     </property>
   </property>
 </prefab>

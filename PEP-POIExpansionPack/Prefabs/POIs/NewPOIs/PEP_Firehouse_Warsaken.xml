@@ -22,8 +22,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="PrefabSize" value="42, 16, 42" />
-  <property name="Tags" value="rural,industrial" />
+  <property name="Tags" value="industrial,rural" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="9, 3, 2" />
+    </property>
     <property class="POILight">
       <property name="0" value="37, 10, 16" />
       <property name="1" value="37, 10, 18" />
@@ -41,11 +44,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="452964" />
-    <property name="TotalTriangles" value="526513" />
+    <property name="TotalVertices" value="453870" />
+    <property name="TotalTriangles" value="527397" />
     <property class="BlockEntities">
-      <property name="Vertices" value="399414" />
-      <property name="Triangles" value="488981" />
+      <property name="Vertices" value="400312" />
+      <property name="Triangles" value="489861" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="37051" />
@@ -68,8 +71,8 @@
       <property name="Triangles" value="9025" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
+      <property name="Vertices" value="24" />
+      <property name="Triangles" value="12" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

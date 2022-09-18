@@ -19,11 +19,11 @@
   <property name="PrefabSize" value="7, 16, 10" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="11442" />
-    <property name="TotalTriangles" value="14304" />
+    <property name="TotalVertices" value="13075" />
+    <property name="TotalTriangles" value="15656" />
     <property class="BlockEntities">
-      <property name="Vertices" value="10142" />
-      <property name="Triangles" value="13082" />
+      <property name="Vertices" value="11775" />
+      <property name="Triangles" value="14434" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="778" />
@@ -64,6 +64,11 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="5, 7, 9" />
     </property>
   </property>
 </prefab>

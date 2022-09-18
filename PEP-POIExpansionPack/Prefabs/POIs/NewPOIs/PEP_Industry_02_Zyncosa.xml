@@ -31,19 +31,15 @@
       <property name="0" value="40, 7, 30" />
     </property>
     <property class="POILight">
-      <property name="0" value="29, 10, 17" />
-      <property name="1" value="21, 13, 18" />
-      <property name="2" value="26, 13, 18" />
-      <property name="3" value="22, 10, 20" />
-      <property name="4" value="27, 10, 20" />
-      <property name="5" value="33, 10, 20" />
-      <property name="6" value="29, 14, 22" />
-      <property name="7" value="31, 9, 22" />
+      <property name="0" value="29, 14, 22" />
+      <property name="1" value="31, 9, 22" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="34, 10, 3" />
-      <property name="1" value="28, 4, 15" />
-      <property name="2" value="27, 1, 16" />
+      <property name="0" value="28, 4, 15" />
+      <property name="1" value="27, 1, 16" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="27, 7, 3" />
     </property>
     <property class="brBlock">
       <property name="0" value="21, 1, 14" />
@@ -51,11 +47,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="646589" />
-    <property name="TotalTriangles" value="656012" />
+    <property name="TotalVertices" value="647553" />
+    <property name="TotalTriangles" value="656892" />
     <property class="BlockEntities">
-      <property name="Vertices" value="548757" />
-      <property name="Triangles" value="590796" />
+      <property name="Vertices" value="549655" />
+      <property name="Triangles" value="591676" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="88599" />
@@ -86,7 +82,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="6114" />
+      <property name="Vertices" value="6180" />
       <property name="Triangles" value="9924" />
     </property>
     <property class="ChunkMeshes8">

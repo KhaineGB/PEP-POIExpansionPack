@@ -25,11 +25,11 @@
   <property name="PrefabSize" value="45, 8, 45" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="259172" />
-    <property name="TotalTriangles" value="292240" />
+    <property name="TotalVertices" value="260070" />
+    <property name="TotalTriangles" value="293120" />
     <property class="BlockEntities">
-      <property name="Vertices" value="197039" />
-      <property name="Triangles" value="239221" />
+      <property name="Vertices" value="197937" />
+      <property name="Triangles" value="240101" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="688" />
@@ -76,6 +76,9 @@
     <property class="quest_stone">
       <property name="0" value="25, 1, 30" />
       <property name="1" value="26, 1, 32" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="41, 2, 41" />
     </property>
   </property>
 </prefab>

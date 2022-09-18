@@ -28,14 +28,14 @@
   <property name="Tags" value="commercial,downtown" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="13, 5, 9" />
-      <property name="1" value="13, 12, 9" />
-      <property name="2" value="14, 7, 10" />
-      <property name="3" value="15, 12, 16" />
-      <property name="4" value="15, 5, 17" />
+      <property name="0" value="15, 12, 16" />
+      <property name="1" value="15, 5, 17" />
     </property>
     <property class="quest_feather">
       <property name="0" value="9, 14, 8" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="8, 2, 2" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="17, 5, 16" />
@@ -45,11 +45,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="116724" />
-    <property name="TotalTriangles" value="117307" />
+    <property name="TotalVertices" value="117622" />
+    <property name="TotalTriangles" value="118187" />
     <property class="BlockEntities">
-      <property name="Vertices" value="98359" />
-      <property name="Triangles" value="105441" />
+      <property name="Vertices" value="99257" />
+      <property name="Triangles" value="106321" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15298" />

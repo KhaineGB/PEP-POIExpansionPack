@@ -14,11 +14,11 @@
   <property name="Tags" value="wilderness" />
   <property name="YOffset" value="-5" />
   <property class="Stats">
-    <property name="TotalVertices" value="187345" />
-    <property name="TotalTriangles" value="174275" />
+    <property name="TotalVertices" value="188243" />
+    <property name="TotalTriangles" value="175155" />
     <property class="BlockEntities">
-      <property name="Vertices" value="172676" />
-      <property name="Triangles" value="160385" />
+      <property name="Vertices" value="173574" />
+      <property name="Triangles" value="161265" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="7386" />
@@ -62,15 +62,15 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="24, 5, 39" />
+    </property>
     <property class="quest_stone">
       <property name="0" value="27, 5, 25" />
       <property name="1" value="22, 5, 33" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 6, 13" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="24, 5, 39" />
     </property>
   </property>
 </prefab>

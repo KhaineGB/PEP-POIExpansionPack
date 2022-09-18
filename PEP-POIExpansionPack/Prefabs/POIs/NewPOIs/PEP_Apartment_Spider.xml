@@ -32,19 +32,22 @@
     <property class="quest_feather">
       <property name="0" value="19, 13, 22" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="14, 7, 19" />
+    <property class="Rally">
+      <property name="0" value="11, 1, 1" />
     </property>
     <property class="brBlock">
       <property name="0" value="19, 12, 18" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="14, 7, 19" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="223942" />
-    <property name="TotalTriangles" value="240840" />
+    <property name="TotalVertices" value="224840" />
+    <property name="TotalTriangles" value="241720" />
     <property class="BlockEntities">
-      <property name="Vertices" value="191903" />
-      <property name="Triangles" value="220062" />
+      <property name="Vertices" value="192801" />
+      <property name="Triangles" value="220942" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="24462" />

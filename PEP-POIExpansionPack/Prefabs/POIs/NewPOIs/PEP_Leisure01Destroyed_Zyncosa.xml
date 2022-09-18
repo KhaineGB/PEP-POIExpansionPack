@@ -27,19 +27,19 @@
   <property name="Tags" value="wilderness" />
   <property name="PrefabSize" value="68, 59, 50" />
   <property class="Stats">
-    <property name="TotalVertices" value="817168" />
-    <property name="TotalTriangles" value="733161" />
+    <property name="TotalVertices" value="888986" />
+    <property name="TotalTriangles" value="841452" />
     <property class="BlockEntities">
-      <property name="Vertices" value="643931" />
-      <property name="Triangles" value="615349" />
+      <property name="Vertices" value="723080" />
+      <property name="Triangles" value="730899" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="109284" />
-      <property name="Triangles" value="56362" />
+      <property name="Vertices" value="110205" />
+      <property name="Triangles" value="56679" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="20672" />
-      <property name="Triangles" value="10336" />
+      <property name="Vertices" value="19712" />
+      <property name="Triangles" value="9856" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="264" />
@@ -50,12 +50,12 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="17461" />
-      <property name="Triangles" value="15706" />
+      <property name="Vertices" value="8025" />
+      <property name="Triangles" value="7538" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="4288" />
-      <property name="Triangles" value="2144" />
+      <property name="Vertices" value="6432" />
+      <property name="Triangles" value="3216" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
@@ -82,6 +82,9 @@
       <property name="0" value="24, 41, 19" />
       <property name="1" value="29, 41, 19" />
       <property name="2" value="32, 42, 23" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="37, 12, 1" />
     </property>
   </property>
 </prefab>

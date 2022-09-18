@@ -34,43 +34,42 @@
       <property name="1" value="49, 14, 46" />
       <property name="2" value="50, 24, 46" />
       <property name="3" value="51, 14, 46" />
-      <property name="4" value="45, 19, 48" />
-      <property name="5" value="47, 9, 48" />
-      <property name="6" value="48, 19, 48" />
-      <property name="7" value="51, 9, 48" />
-      <property name="8" value="51, 19, 48" />
-      <property name="9" value="47, 24, 49" />
-      <property name="10" value="49, 14, 49" />
-      <property name="11" value="50, 24, 49" />
-      <property name="12" value="51, 14, 49" />
-      <property name="13" value="46, 13, 50" />
-      <property name="14" value="47, 4, 50" />
-      <property name="15" value="50, 4, 50" />
-      <property name="16" value="45, 19, 51" />
-      <property name="17" value="48, 19, 51" />
-      <property name="18" value="51, 19, 51" />
-      <property name="19" value="45, 8, 52" />
-      <property name="20" value="45, 9, 52" />
-      <property name="21" value="47, 24, 52" />
-      <property name="22" value="49, 14, 52" />
-      <property name="23" value="50, 8, 52" />
-      <property name="24" value="50, 9, 52" />
-      <property name="25" value="50, 24, 52" />
-      <property name="26" value="51, 14, 52" />
+      <property name="4" value="47, 9, 48" />
+      <property name="5" value="48, 19, 48" />
+      <property name="6" value="51, 9, 48" />
+      <property name="7" value="51, 19, 48" />
+      <property name="8" value="47, 24, 49" />
+      <property name="9" value="49, 14, 49" />
+      <property name="10" value="50, 24, 49" />
+      <property name="11" value="51, 14, 49" />
+      <property name="12" value="46, 13, 50" />
+      <property name="13" value="47, 4, 50" />
+      <property name="14" value="50, 4, 50" />
+      <property name="15" value="48, 19, 51" />
+      <property name="16" value="51, 19, 51" />
+      <property name="17" value="47, 24, 52" />
+      <property name="18" value="49, 14, 52" />
+      <property name="19" value="50, 8, 52" />
+      <property name="20" value="50, 9, 52" />
+      <property name="21" value="50, 24, 52" />
+      <property name="22" value="51, 14, 52" />
     </property>
     <property class="quest_feather">
       <property name="0" value="53, 28, 50" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="2, 7, 51" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="33, 13, 49" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2197582" />
-    <property name="TotalTriangles" value="2304035" />
+    <property name="TotalVertices" value="2198480" />
+    <property name="TotalTriangles" value="2304915" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1903445" />
-      <property name="Triangles" value="2105289" />
+      <property name="Vertices" value="1904343" />
+      <property name="Triangles" value="2106169" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="203641" />

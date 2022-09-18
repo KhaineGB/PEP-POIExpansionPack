@@ -27,6 +27,9 @@
   <property name="PrefabSize" value="42, 11, 42" />
   <property name="Tags" value="industrial" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="37, 2, 37" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="29, 9, 24" />
       <property name="1" value="23, 9, 32" />
@@ -43,16 +46,13 @@
     <property class="brBlock">
       <property name="0" value="20, 8, 28" />
     </property>
-    <property class="Rally">
-      <property name="0" value="37, 2, 37" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="309871" />
-    <property name="TotalTriangles" value="342452" />
+    <property name="TotalVertices" value="310717" />
+    <property name="TotalTriangles" value="343320" />
     <property class="BlockEntities">
-      <property name="Vertices" value="279550" />
-      <property name="Triangles" value="318777" />
+      <property name="Vertices" value="280424" />
+      <property name="Triangles" value="319645" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="20917" />
@@ -83,7 +83,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="5152" />
+      <property name="Vertices" value="5124" />
       <property name="Triangles" value="8132" />
     </property>
     <property class="ChunkMeshes8">

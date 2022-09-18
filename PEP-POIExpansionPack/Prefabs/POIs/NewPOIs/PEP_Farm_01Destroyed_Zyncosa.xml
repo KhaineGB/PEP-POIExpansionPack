@@ -27,15 +27,15 @@
   <property name="Tags" value="wilderness" />
   <property name="PrefabSize" value="61, 52, 54" />
   <property class="Stats">
-    <property name="TotalVertices" value="788535" />
-    <property name="TotalTriangles" value="720524" />
+    <property name="TotalVertices" value="939170" />
+    <property name="TotalTriangles" value="890568" />
     <property class="BlockEntities">
-      <property name="Vertices" value="654897" />
-      <property name="Triangles" value="629852" />
+      <property name="Vertices" value="820867" />
+      <property name="Triangles" value="810983" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="80221" />
-      <property name="Triangles" value="43702" />
+      <property name="Vertices" value="76996" />
+      <property name="Triangles" value="41933" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="21448" />
@@ -50,12 +50,12 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="15985" />
-      <property name="Triangles" value="12134" />
+      <property name="Vertices" value="3323" />
+      <property name="Triangles" value="2540" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1104" />
-      <property name="Triangles" value="552" />
+      <property name="Vertices" value="1656" />
+      <property name="Triangles" value="828" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
@@ -88,6 +88,9 @@
       <property name="6" value="50, 11, 19" />
       <property name="7" value="53, 11, 19" />
       <property name="8" value="55, 11, 22" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="33, 11, 5" />
     </property>
     <property class="quest_feather">
       <property name="0" value="58, 11, 16" />

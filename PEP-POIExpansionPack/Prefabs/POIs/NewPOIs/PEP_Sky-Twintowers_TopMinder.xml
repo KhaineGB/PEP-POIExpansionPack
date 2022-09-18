@@ -28,6 +28,9 @@
     <property class="TraderOnOff">
       <property name="0" value="33, 144, 45" />
     </property>
+    <property class="Rally">
+      <property name="0" value="24, 1, 93" />
+    </property>
     <property class="POILight">
       <property name="0" value="86, 144, 34" />
       <property name="1" value="85, 147, 35" />
@@ -35,11 +38,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1862237" />
-    <property name="TotalTriangles" value="1400704" />
+    <property name="TotalVertices" value="1863443" />
+    <property name="TotalTriangles" value="1401720" />
     <property class="BlockEntities">
-      <property name="Vertices" value="629823" />
-      <property name="Triangles" value="743501" />
+      <property name="Vertices" value="630721" />
+      <property name="Triangles" value="744381" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="804737" />
@@ -62,16 +65,16 @@
       <property name="Triangles" value="2587" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="640" />
-      <property name="Triangles" value="320" />
+      <property name="Vertices" value="960" />
+      <property name="Triangles" value="480" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="25830" />
-      <property name="Triangles" value="40212" />
+      <property name="Vertices" value="25818" />
+      <property name="Triangles" value="40188" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />

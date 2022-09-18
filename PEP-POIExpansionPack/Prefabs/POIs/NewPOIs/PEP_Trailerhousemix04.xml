@@ -26,11 +26,11 @@
   <property name="PrefabSize" value="42, 9, 42" />
   <property name="Tags" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="237581" />
-    <property name="TotalTriangles" value="251208" />
+    <property name="TotalVertices" value="238847" />
+    <property name="TotalTriangles" value="252272" />
     <property class="BlockEntities">
-      <property name="Vertices" value="197575" />
-      <property name="Triangles" value="225169" />
+      <property name="Vertices" value="198473" />
+      <property name="Triangles" value="226049" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="31715" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="1441" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="736" />
-      <property name="Triangles" value="368" />
+      <property name="Vertices" value="1104" />
+      <property name="Triangles" value="552" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
@@ -74,6 +74,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="4, 1, 21" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="37, 1, 6" />
       <property name="1" value="37, 1, 13" />

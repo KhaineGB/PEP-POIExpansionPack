@@ -31,6 +31,9 @@
     <property class="POILight">
       <property name="0" value="83, 13, 66" />
     </property>
+    <property class="Rally">
+      <property name="0" value="12, 5, 79" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="22, 4, 28" />
     </property>
@@ -42,11 +45,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1145317" />
-    <property name="TotalTriangles" value="1174098" />
+    <property name="TotalVertices" value="1146279" />
+    <property name="TotalTriangles" value="1175010" />
     <property class="BlockEntities">
-      <property name="Vertices" value="927557" />
-      <property name="Triangles" value="991820" />
+      <property name="Vertices" value="928383" />
+      <property name="Triangles" value="992664" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="173260" />
@@ -69,8 +72,8 @@
       <property name="Triangles" value="8606" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="272" />
-      <property name="Triangles" value="136" />
+      <property name="Vertices" value="408" />
+      <property name="Triangles" value="204" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

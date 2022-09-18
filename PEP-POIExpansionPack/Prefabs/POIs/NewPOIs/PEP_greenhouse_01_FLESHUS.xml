@@ -24,13 +24,13 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="PrefabSize" value="60, 27, 60" />
-  <property name="Tags" value="rural,residential" />
+  <property name="Tags" value="residential,rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="650662" />
-    <property name="TotalTriangles" value="617398" />
+    <property name="TotalVertices" value="651644" />
+    <property name="TotalTriangles" value="618318" />
     <property class="BlockEntities">
-      <property name="Vertices" value="553427" />
-      <property name="Triangles" value="549016" />
+      <property name="Vertices" value="554325" />
+      <property name="Triangles" value="549896" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="70152" />
@@ -53,15 +53,15 @@
       <property name="Triangles" value="3096" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="160" />
-      <property name="Triangles" value="80" />
+      <property name="Vertices" value="240" />
+      <property name="Triangles" value="120" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="12892" />
+      <property name="Vertices" value="12896" />
       <property name="Triangles" value="22144" />
     </property>
     <property class="ChunkMeshes8">
@@ -80,6 +80,9 @@
     <property class="quest_stone">
       <property name="0" value="4, 15, 3" />
       <property name="1" value="2, 16, 4" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="3, 14, 56" />
     </property>
   </property>
 </prefab>

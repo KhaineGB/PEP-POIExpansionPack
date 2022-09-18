@@ -24,19 +24,19 @@
   <property name="PrefabSize" value="42, 12, 42" />
   <property name="Tags" value="wilderness" />
   <property class="IndexedBlockOffsets">
-    <property class="FetchContainer">
-      <property name="0" value="18, 11, 12" />
-    </property>
     <property class="Rally">
       <property name="0" value="21, 5, 41" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="18, 11, 12" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="184947" />
-    <property name="TotalTriangles" value="177771" />
+    <property name="TotalVertices" value="185068" />
+    <property name="TotalTriangles" value="177609" />
     <property class="BlockEntities">
-      <property name="Vertices" value="167943" />
-      <property name="Triangles" value="162934" />
+      <property name="Vertices" value="168068" />
+      <property name="Triangles" value="162780" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="9628" />
@@ -67,8 +67,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="5506" />
-      <property name="Triangles" value="8784" />
+      <property name="Vertices" value="5502" />
+      <property name="Triangles" value="8776" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />

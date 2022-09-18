@@ -13,14 +13,14 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="YOffset" value="-1" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="countrytown,residential,wilderness,industrial,nodiagonal" />
+  <property name="Tags" value="wilderness,industrial,residential,countrytown,nodiagonal" />
   <property name="PrefabSize" value="25, 16, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="27272" />
-    <property name="TotalTriangles" value="25998" />
+    <property name="TotalVertices" value="28170" />
+    <property name="TotalTriangles" value="26878" />
     <property class="BlockEntities">
-      <property name="Vertices" value="11126" />
-      <property name="Triangles" value="14441" />
+      <property name="Vertices" value="12024" />
+      <property name="Triangles" value="15321" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="13238" />
@@ -61,6 +61,11 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="11, 1, 2" />
     </property>
   </property>
 </prefab>

@@ -26,11 +26,11 @@
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="Tags" value="downtown,rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="74304" />
-    <property name="TotalTriangles" value="75089" />
+    <property name="TotalVertices" value="75202" />
+    <property name="TotalTriangles" value="75969" />
     <property class="BlockEntities">
-      <property name="Vertices" value="64535" />
-      <property name="Triangles" value="67442" />
+      <property name="Vertices" value="65433" />
+      <property name="Triangles" value="68322" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="7763" />
@@ -80,6 +80,9 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="15, 6, 12" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="8, 2, 22" />
     </property>
   </property>
 </prefab>

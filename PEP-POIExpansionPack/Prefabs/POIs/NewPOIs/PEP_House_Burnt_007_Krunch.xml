@@ -21,11 +21,11 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property class="Stats">
-    <property name="TotalVertices" value="220011" />
-    <property name="TotalTriangles" value="204785" />
+    <property name="TotalVertices" value="220909" />
+    <property name="TotalTriangles" value="205665" />
     <property class="BlockEntities">
-      <property name="Vertices" value="204517" />
-      <property name="Triangles" value="190760" />
+      <property name="Vertices" value="205415" />
+      <property name="Triangles" value="191640" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="8543" />
@@ -69,11 +69,11 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="FetchContainer">
-      <property name="0" value="20, 5, 12" />
-    </property>
     <property class="Rally">
       <property name="0" value="17, 5, 39" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="20, 5, 12" />
     </property>
   </property>
 </prefab>

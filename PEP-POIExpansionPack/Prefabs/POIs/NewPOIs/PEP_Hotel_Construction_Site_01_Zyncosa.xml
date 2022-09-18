@@ -28,7 +28,7 @@
   <property name="PrefabSize" value="70, 45, 69" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="16, 7, 6" />
+      <property name="0" value="40, 6, 65" />
     </property>
     <property class="POILight">
       <property name="0" value="51, 41, 35" />
@@ -48,31 +48,31 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1498419" />
-    <property name="TotalTriangles" value="1320556" />
+    <property name="TotalVertices" value="1671233" />
+    <property name="TotalTriangles" value="1537261" />
     <property class="BlockEntities">
-      <property name="Vertices" value="950657" />
-      <property name="Triangles" value="974398" />
+      <property name="Vertices" value="1156864" />
+      <property name="Triangles" value="1214959" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="462591" />
-      <property name="Triangles" value="278624" />
+      <property name="Vertices" value="456460" />
+      <property name="Triangles" value="273186" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="23104" />
       <property name="Triangles" value="11552" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="960" />
-      <property name="Triangles" value="600" />
+      <property name="Vertices" value="96" />
+      <property name="Triangles" value="48" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="688" />
       <property name="Triangles" value="480" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="42813" />
-      <property name="Triangles" value="27412" />
+      <property name="Vertices" value="16415" />
+      <property name="Triangles" value="9546" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

@@ -26,7 +26,7 @@
   <property name="Tags" value="wilderness" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="3, 5, 4" />
+      <property name="0" value="3, 5, 43" />
     </property>
     <property class="quest_wood">
       <property name="0" value="28, 5, 22" />
@@ -45,11 +45,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1822366" />
-    <property name="TotalTriangles" value="2815445" />
+    <property name="TotalVertices" value="1822640" />
+    <property name="TotalTriangles" value="2816013" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1805166" />
-      <property name="Triangles" value="2798743" />
+      <property name="Vertices" value="1805440" />
+      <property name="Triangles" value="2799311" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="7428" />

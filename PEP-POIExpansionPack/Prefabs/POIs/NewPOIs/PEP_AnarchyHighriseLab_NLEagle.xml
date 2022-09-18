@@ -22,14 +22,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="0" />
   <property name="PrefabSize" value="60, 49, 60" />
-  <property name="Tags" value="industrial,downtown" />
+  <property name="Tags" value="downtown,industrial" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="45, 9, 15" />
+    </property>
     <property class="POILight">
       <property name="0" value="49, 4, 47" />
       <property name="1" value="52, 4, 47" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="45, 9, 15" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="53, 14, 19" />
@@ -37,11 +37,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1070403" />
-    <property name="TotalTriangles" value="1058594" />
+    <property name="TotalVertices" value="1071301" />
+    <property name="TotalTriangles" value="1059474" />
     <property class="BlockEntities">
-      <property name="Vertices" value="848063" />
-      <property name="Triangles" value="912896" />
+      <property name="Vertices" value="848961" />
+      <property name="Triangles" value="913776" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="155649" />

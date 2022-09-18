@@ -34,7 +34,7 @@
       <property name="1" value="24, 5, 37" />
     </property>
     <property class="Rally">
-      <property name="0" value="29, 5, 8" />
+      <property name="0" value="30, 5, 57" />
     </property>
     <property class="quest_wood">
       <property name="0" value="38, 6, 32" />
@@ -44,11 +44,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="294694" />
-    <property name="TotalTriangles" value="323946" />
+    <property name="TotalVertices" value="295696" />
+    <property name="TotalTriangles" value="324878" />
     <property class="BlockEntities">
-      <property name="Vertices" value="220605" />
-      <property name="Triangles" value="272711" />
+      <property name="Vertices" value="221503" />
+      <property name="Triangles" value="273591" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="50524" />
@@ -71,8 +71,8 @@
       <property name="Triangles" value="8567" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="208" />
-      <property name="Triangles" value="104" />
+      <property name="Vertices" value="312" />
+      <property name="Triangles" value="156" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

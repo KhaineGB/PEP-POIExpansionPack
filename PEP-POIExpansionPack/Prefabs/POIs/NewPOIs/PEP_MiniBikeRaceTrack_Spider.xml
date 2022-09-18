@@ -24,7 +24,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="PrefabSize" value="100, 21, 100" />
-  <property name="Tags" value="industrial,wilderness" />
+  <property name="Tags" value="wilderness,industrial" />
   <property class="IndexedBlockOffsets">
     <property class="quest_feather">
       <property name="0" value="92, 8, 85" />
@@ -35,13 +35,16 @@
     <property class="POILight">
       <property name="0" value="44, 13, 54" />
     </property>
+    <property class="Rally">
+      <property name="0" value="85, 4, 95" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2085431" />
-    <property name="TotalTriangles" value="1870057" />
+    <property name="TotalVertices" value="2086329" />
+    <property name="TotalTriangles" value="1870937" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1935133" />
-      <property name="Triangles" value="1757789" />
+      <property name="Vertices" value="1936031" />
+      <property name="Triangles" value="1758669" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="79076" />

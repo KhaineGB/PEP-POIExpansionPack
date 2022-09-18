@@ -25,11 +25,11 @@
   <property name="PrefabSize" value="42, 37, 42" />
   <property name="Tags" value="wilderness,rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="1382097" />
-    <property name="TotalTriangles" value="1458310" />
+    <property name="TotalVertices" value="1383651" />
+    <property name="TotalTriangles" value="1459530" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1022977" />
-      <property name="Triangles" value="1209418" />
+      <property name="Vertices" value="1023875" />
+      <property name="Triangles" value="1210298" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="310779" />
@@ -52,15 +52,15 @@
       <property name="Triangles" value="24873" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="1360" />
-      <property name="Triangles" value="680" />
+      <property name="Vertices" value="2040" />
+      <property name="Triangles" value="1020" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="13630" />
+      <property name="Vertices" value="13606" />
       <property name="Triangles" value="22400" />
     </property>
     <property class="ChunkMeshes8">
@@ -81,6 +81,9 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 36, 38" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="39, 26, 2" />
     </property>
   </property>
 </prefab>

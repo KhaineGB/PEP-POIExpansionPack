@@ -45,39 +45,39 @@
       <property name="0" value="62, 6, 83" />
     </property>
     <property class="Rally">
-      <property name="0" value="56, 7, 85" />
+      <property name="0" value="67, 4, 47" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="463964" />
-    <property name="TotalTriangles" value="403593" />
+    <property name="TotalVertices" value="598326" />
+    <property name="TotalTriangles" value="573244" />
     <property class="BlockEntities">
-      <property name="Vertices" value="258297" />
-      <property name="Triangles" value="265095" />
+      <property name="Vertices" value="394918" />
+      <property name="Triangles" value="437314" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="95606" />
-      <property name="Triangles" value="55355" />
+      <property name="Vertices" value="95325" />
+      <property name="Triangles" value="55218" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="50816" />
       <property name="Triangles" value="25408" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="776" />
-      <property name="Triangles" value="388" />
+      <property name="Vertices" value="752" />
+      <property name="Triangles" value="376" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="9402" />
-      <property name="Triangles" value="7121" />
+      <property name="Vertices" value="4504" />
+      <property name="Triangles" value="3230" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="24560" />
-      <property name="Triangles" value="12280" />
+      <property name="Vertices" value="27504" />
+      <property name="Triangles" value="13752" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
